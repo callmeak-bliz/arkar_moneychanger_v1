@@ -1,0 +1,8 @@
+{
+  "name": "Money Changer",
+  "description": "ဘတ် ⇄ ကျပ် ကိုယ်ပိုင်ငွေလွှဲနှင့် နေ့စဉ်ပေါက်စျေးတွက်ချက်မှတ်တမ်း အက်ပ်",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

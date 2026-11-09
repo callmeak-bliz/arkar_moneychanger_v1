@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-app: "Nunito", "Noto Sans Myanmar", system-ui, -apple-system, sans-serif;
+  }
+
+  body {
+    font-family: var(--font-app);
+    background-color: #FBF7FF;
+    color: #2E1A47;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    touch-action: manipulation;
+  }
+
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+}
